@@ -1,0 +1,11 @@
+p:\microservi-os-alura\pedidos\pedidos\src\main\java\br\com\cthulhu\pedidos\config\Configuracao.java
+p:\microservi-os-alura\pedidos\pedidos\src\main\java\br\com\cthulhu\pedidos\model\Status.java
+p:\microservi-os-alura\pedidos\pedidos\src\main\java\br\com\cthulhu\pedidos\controller\PedidoController.java
+p:\microservi-os-alura\pedidos\pedidos\src\main\java\br\com\cthulhu\pedidos\repository\PedidoRepository.java
+p:\microservi-os-alura\pedidos\pedidos\src\main\java\br\com\cthulhu\pedidos\service\PedidoService.java
+p:\microservi-os-alura\pedidos\pedidos\src\main\java\br\com\cthulhu\pedidos\dto\ItemDoPedidoDto.java
+p:\microservi-os-alura\pedidos\pedidos\src\main\java\br\com\cthulhu\pedidos\dto\StatusDto.java
+p:\microservi-os-alura\pedidos\pedidos\src\main\java\br\com\cthulhu\pedidos\model\Pedido.java
+p:\microservi-os-alura\pedidos\pedidos\src\main\java\br\com\cthulhu\pedidos\dto\PedidoDto.java
+p:\microservi-os-alura\pedidos\pedidos\src\main\java\br\com\cthulhu\pedidos\model\ItemDoPedido.java
+p:\microservi-os-alura\pedidos\pedidos\src\main\java\br\com\cthulhu\pedidos\PedidosApplication.java
